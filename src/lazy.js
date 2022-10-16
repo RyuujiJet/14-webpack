@@ -1,3 +1,3 @@
 export default function lazy() {
-    console.log('懒加载')
+    console.log('这个文件只要懒加载')
 }
